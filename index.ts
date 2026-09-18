@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+console.log("Hello there from server")
